@@ -1,5 +1,5 @@
 # FinalProject
-Developeder: Hamed Cheraghi
+Hamed Cheraghi
 
 # Final Project Report - Student Management System
 
